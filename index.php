@@ -35,25 +35,25 @@
                   
                     <h4><b>Reach Us </b></h4>
                     <div class="d-flex w-100">
-                        <div class="col-1"><span class="fa fa-phone-square"></span></div>
-                        <div class="col-auto flex-grow-1"><?php echo $_settings->info('contact') ?></div>
+                        <div class="col-1"><span class="fa fa-phone-square text-green"></span></div>
+                        <div class="col-auto flex-grow-1 "><?php echo $_settings->info('contact') ?></div>
                     </div>
                     <div class="d-flex w-100">
-                        <div class="col-1"><span class="fa fa-envelope-square"></span></div>
-                        <div class="col-auto flex-grow-1"><?php echo $_settings->info('email') ?></div>
+                        <div class="col-1"><span class="fa fa-envelope-square text-primary"></span></div>
+                        <div class="col-auto flex-grow-1 " ><?php echo $_settings->info('email') ?></div>
                     </div>
                     <div class="d-flex w-100">
-                        <div class="col-1"><span class="fa fa-map-marked-alt"></span></div>
-                        <div class="col-auto flex-grow-1"><?php echo $_settings->info('address') ?></div>
+                        <div class="col-1"><span class="fa fa-map-marked-alt text-red"></span></div>
+                        <div class="col-auto flex-grow-1 "><?php echo $_settings->info('address') ?></div>
                     </div><hr>
-                    <h4><b>Our Social Media</b></h4>
+                    <h4><b>Our Social </b></h4>
                     <div class="d-flex w-100">
                         <div class="col-1"><a href="https://www.facebook.com/EmpowermentMissions" target="_blank"> <span class="fab fa-facebook ml-2 text-blue"></span></a></div>
-                        <div class="col-auto flex-grow-1"> FaceBook</div>
+                        <div class="col-auto flex-grow-1 ml-2"> FaceBook</div>
                     </div>
                     <div class="d-flex w-100">
                         <div class="col-1"><a href="https://www.youtube.com/@EmpowermentMissions" target="_blank"><span class="fab fa-youtube ml-2 text-red"></span></a></div>
-                        <div class="col-auto flex-grow-1"> YouTube</div>
+                        <div class="col-auto flex-grow-1 ml-2"> YouTube</div>
                     </div>
 
                     

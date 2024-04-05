@@ -62,7 +62,7 @@
 <footer class="py-5 bg-dark">
             <div class="container">
               <p class="m-0 text-center text-white">&copy; <?php echo $_settings->info('short_name') ?>  <?php echo date('Y') ?></p>
-              <p class="m-0 text-center text-white">Developed By: <a href="">bAtasi</a></p>
+              <p class="m-0 text-center text-white">Developed By: <a href="https://batasi.000webhostapp.com">bAtasi</a></p>
           </div>
         </footer>
 
