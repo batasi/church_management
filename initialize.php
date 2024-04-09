@@ -1,5 +1,5 @@
 <?php
-if(!defined('base_url')) define('base_url','https://7d0a-197-254-29-22.ngrok-free.app/church_management/');
+if(!defined('base_url')) define('base_url','https://585b-197-254-29-22.ngrok-free.app/church_management/');
 if(!defined('base_app')) define('base_app', str_replace('\\','/',__DIR__).'/' );
 if(!defined('DB_SERVER')) define('DB_SERVER',"localhost");
 if(!defined('DB_USERNAME')) define('DB_USERNAME',"root");
